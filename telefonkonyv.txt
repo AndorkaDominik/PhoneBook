@@ -1,0 +1,2 @@
+Vezeteknev;Keresztnev;Becenev;Cim;Munkahelyi szam;Privat szam
+Andorka;Dominik;Domi;Gyor Epres utca 2/A;+36242708244;+36232738244
